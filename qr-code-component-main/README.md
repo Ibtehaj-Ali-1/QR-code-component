@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ibtehaj-Ali-1/QR-code-component)
-- Live Site URL: [Add live site URL here](https://qr-code-component-eight-gules.vercel.app/)
+- Solution URL: [QR-code-component](https://github.com/Ibtehaj-Ali-1/QR-code-component)
+- Live Site URL: [qr-code-component](https://qr-code-component-eight-gules.vercel.app/)
 
 ## My process
 
@@ -40,4 +40,4 @@ I learned a lot about CSS Flex property, margins & paddings.
 ## Author
 
 - Website - [Ibtehaj Ali](https://github.com/Ibtehaj-Ali-1)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Ibtehaj-Ali-1)
+- Frontend Mentor - [Ibtehaj-Ali-1](https://www.frontendmentor.io/profile/Ibtehaj-Ali-1)
